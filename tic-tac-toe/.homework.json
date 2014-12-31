@@ -1,0 +1,12 @@
+{
+  "name": "tic-tac-toe",
+  "version": "0.0.1",
+  "title": "Tic Tac Toe",
+  "description": "Create a game of tic-tac-toe that you can play on the command line.",
+  "keywords": [
+    "Ruby",
+    "scripting",
+    "games",
+    "tic-tac-toe"
+  ]
+}

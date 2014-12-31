@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe-returns",
+  "version": "0.0.1",
+  "title": "Tic Tac Toe Returns",
+  "description": "Think about tests and maintenance while refactoring tic-tac-toe to use classes",
+  "keywords": [
+    "Ruby",
+    "scripting",
+    "games",
+    "tic-tac-toe",
+    "testing",
+    "rspec",
+    "OO",
+    "refactoring"
+  ]
+}
