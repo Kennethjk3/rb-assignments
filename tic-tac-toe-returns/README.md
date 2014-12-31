@@ -1,4 +1,4 @@
-In this assignment, we'll revisit and refactor [our previous tic-tac-toe]() implementation with an eye towards testability, maintainability, object oriented design, and code quality.
+In this assignment, we'll revisit and refactor [our previous tic-tac-toe](https://github.com/theironyard/rb-assignments/tree/master/tic-tac-toe) implementation with an eye towards testability, maintainability, object oriented design, and code quality.
 
 ## Objectives
 
