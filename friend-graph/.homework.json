@@ -1,0 +1,15 @@
+{
+  "name": "friend-graph",
+  "version": "0.0.1",
+  "title": "Friend Graph",
+  "description": "Pull and explore a fragment of the Twitter social graph",
+  "keywords": [
+    "Ruby",
+    "scripting",
+    "models",
+    "ActiveRecord",
+    "APIs",
+    "Twitter",
+    "HTTParty"
+  ]
+}
