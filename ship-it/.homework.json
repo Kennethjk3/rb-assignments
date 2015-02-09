@@ -1,0 +1,14 @@
+{
+  "name": "ship-it",
+  "version": "0.0.1",
+  "title": "Ship It",
+  "description": "Welcome to The Iron Yard. Let's ship some code.",
+  "keywords": [
+    "Ruby",
+    "scripting",
+    "testing",
+    "minitest",
+    "Github",
+    "Travis CI"
+  ]
+}
