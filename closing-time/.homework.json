@@ -1,0 +1,18 @@
+{
+    "name": "closing-time",
+    "version": "0.0.1",
+    "title": "closing-time",
+    "description": "Use the GitHub API to close an issue from the command line",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "APIs",
+        "GitHub",
+        "Ruby",
+        "cURL",
+        "command line"
+    ],
+    "supplementalFiles": []
+}
