@@ -1,0 +1,17 @@
+{
+    "name": "harder-better",
+    "version": "0.0.1",
+    "title": "harder-better",
+    "description": "Make a basic sampler / sequencer with Sinatra",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "Ruby",
+        "Sinatra",
+        "controllers"
+    ],
+    "supplementalFiles": []
+}
