@@ -1,0 +1,16 @@
+{
+    "name": "databasics",
+    "version": "0.0.1",
+    "title": "databasics",
+    "description": "Use raw SQL to connect to a database and run queries",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "Ruby",
+        "SQL",
+        "SQLite3"
+    ],
+    "supplementalFiles": []
+}
