@@ -1,0 +1,18 @@
+{
+    "name": "todo-cli",
+    "version": "0.0.1",
+    "title": "todo-cli",
+    "description": "Write a command line todo manager",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "ARGV",
+        "ActiveRecord",
+        "Ruby",
+        "models",
+        "scripts",
+        "todo"
+    ],
+    "supplementalFiles": []
+}
