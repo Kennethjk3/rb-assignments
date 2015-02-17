@@ -1,0 +1,16 @@
+{
+    "name": "twenty-questions",
+    "version": "0.0.1",
+    "title": "twenty-questions",
+    "description": "Write a script that learns to play twenty questions",
+    "difficultyModes": [
+        "Normal",
+        "Nightmare"
+    ],
+    "keywords": [
+        "Ruby",
+        "ActiveRecord",
+        "models"
+    ],
+    "supplementalFiles": []
+}
