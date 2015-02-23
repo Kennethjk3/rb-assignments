@@ -36,12 +36,12 @@ After completing this assignment, you be able to effectively use
 
 All endpoints require authentication, but this may be done with a token that you generate manually.
 
-`GET /list/:name` shows all incomplete items in the list with the given name
-`POST /list/:list_name?description=...` creates a new todo item, returning the id
-`PATCH /item/:id?due_at=...` adds or updates a due date
-`DELETE /item/:id` marks an item as complete
-`GET /next` returns a random incomplete
-`GET /search?q=...` finds items containing the given string
+* `GET /list/:name` shows all incomplete items in the list with the given name
+* `POST /list/:list_name?description=...` creates a new todo item, returning the id
+* `PATCH /item/:id?due_at=...` adds or updates a due date
+* `DELETE /item/:id` marks an item as complete
+* `GET /next` returns a random incomplete
+* `GET /search?q=...` finds items containing the given string
 
 Note that lists belong to users, and different users should be able to use the app concurrently (without seeing each other's items).
 
