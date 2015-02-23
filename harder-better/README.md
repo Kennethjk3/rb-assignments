@@ -42,8 +42,8 @@ After completing this assignment, you be able to effectively use
 
 Download the samples from [here](https://github.com/jamesdabbs/daft-samples). Make an endpoint for each family, with query params for variants: e.g.
 
-`POST /harder`
-`POST /better?v=2`
+* `POST /harder`
+* `POST /better?v=2`
 
 The `rock.rb` script should play several samples in the style and timing of your choosing.
 
