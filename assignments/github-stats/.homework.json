@@ -1,0 +1,16 @@
+{
+    "name": "github-stats",
+    "version": "0.0.1",
+    "title": "github-stats",
+    "description": "Pull and aggregate commit statistics from Github",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "APIs",
+        "GitHub",
+        "Ruby"
+    ],
+    "supplementalFiles": []
+}

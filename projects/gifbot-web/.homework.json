@@ -1,0 +1,19 @@
+{
+    "name": "gifbot-web",
+    "version": "0.0.1",
+    "title": "gifbot-web",
+    "description": "Make a web accessible gif manager",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "ActiveRecord",
+        "APIs",
+        "Ruby",
+        "Sinatra",
+        "controllers",
+        "models"
+    ],
+    "supplementalFiles": []
+}

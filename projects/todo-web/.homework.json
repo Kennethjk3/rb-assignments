@@ -1,0 +1,20 @@
+{
+    "name": "todo-web",
+    "version": "0.0.1",
+    "title": "todo-web",
+    "description": "todo-web",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "ActiveRecord",
+        "Ruby",
+        "Sinatra",
+        "controllers",
+        "models",
+        "todo"
+    ],
+    "supplementalFiles": []
+}
