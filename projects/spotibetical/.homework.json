@@ -1,0 +1,17 @@
+{
+    "name": "spotibetical",
+    "version": "0.0.1",
+    "title": "spotibetical",
+    "description": "Community-generated playlist builder",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "APIs",
+        "MVC",
+        "Ruby",
+        "Spotify",
+        "authentication"
+    ],
+    "supplementalFiles": []
+}
