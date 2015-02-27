@@ -1,0 +1,16 @@
+{
+    "name": "week-8-lab",
+    "version": "0.0.1",
+    "title": "Amazon eCommerce",
+    "description": "ecommerce platform with Stripe, Inventory, Emails, and a shopping cart",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "Email",
+        "Ruby",
+        "Stripe"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "surfandpaddle-rails",
+    "version": "0.0.1",
+    "title": "Surf And Paddle, in Rails",
+    "description": "Surf And Paddle, in Rails",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "Design",
+        "Rails",
+        "Router",
+        "Ruby"
+    ]
+}
