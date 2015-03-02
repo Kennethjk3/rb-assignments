@@ -1,0 +1,17 @@
+{
+    "name": "week-5-lab",
+    "version": "0.0.1",
+    "title": "Reddit",
+    "description": "Build Reddit (bookmarks and voting in Rails using Forms and relationships)",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "Rails",
+        "Ruby",
+        "forms",
+        "has_many",
+        "relationships"
+    ]
+}

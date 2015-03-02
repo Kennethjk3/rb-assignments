@@ -1,0 +1,17 @@
+{
+    "name": "twitter",
+    "version": "0.0.1",
+    "title": "Microblogging Social Network (Twitter)",
+    "description": "Microblogging Social Network (Twitter)",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "Rails",
+        "Relationships",
+        "Ruby",
+        "Twitter",
+        "Wizard"
+    ]
+}

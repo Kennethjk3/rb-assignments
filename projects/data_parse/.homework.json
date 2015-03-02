@@ -1,0 +1,14 @@
+{
+    "name": "data_parse",
+    "version": "0.0.1",
+    "title": "Parsing Data: Planet Express Logs",
+    "description": "Parsing Data: Planet Express Logs",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "CSV",
+        "Ruby",
+        "Week1"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "blackjack",
+    "version": "0.0.1",
+    "title": "Blackjack",
+    "description": "Blackjack Ruby console game",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "Blackjack",
+        "Console",
+        "Game",
+        "Ruby"
+    ]
+}
